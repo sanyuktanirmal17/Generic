@@ -6,7 +6,7 @@
 		 * @param x
 		 * @param y
 		 * @param z
-		 * @return Maximum of 3 of integer , float and string
+		 * @return Maximum of 3 any type 
 		 */
 		public  <T extends Comparable<T>> T maxOfAnything(T x ,T y , T z) {
 			T max=x;
