@@ -37,7 +37,7 @@ public class MaxNumber {
 		}
 		
 		/**
-		 * main method
+		 * main method calculating 
 		 */
 		
 		public static void main(String[] args) {
