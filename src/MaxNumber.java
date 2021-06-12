@@ -2,7 +2,7 @@ package com;
 
 /**
  * MaximumCheck is an class of public type
- * @author sanyukta
+ * @author sanyukta Nirmal
  *
  */
 public class MaxNumber {
